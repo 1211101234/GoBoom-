@@ -4,8 +4,8 @@
 
 No | ID         | Name | Task descriptions | Contribution %
 -- | ---------- | ---- | ----------------- | --------------
-1  | 1211101234 |  MUHAMMAD ZAHIN ADRI     |      50             |
-2  | 1211101888           | SHAHNAZ BINTI HUSAIN SHUKRI    |        50           |
+1  | 1211101234 |  MUHAMMAD ZAHIN ADRI     |      Did some touch ups and tried doing the GUI section, also worked on the Save and Load function alongside Shahnaz           | 50
+2  | 1211101888           | SHAHNAZ BINTI HUSAIN SHUKRI    |     Updated the rest of the source codes and also worked on the save and load function, added the scores             | 50
 3  |            |      |                   |
 4  |            |      |                   |
 
