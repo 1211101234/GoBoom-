@@ -128,6 +128,10 @@ public class GoBoom {
                         }
 
                         else if (userInput.equals("d")) { //draw card from deck
+                           if (deck.isEmpty()) {
+                                i++;
+                                playerTurn = playerTurn + 1;
+                            }
                             drawCard();
                             i--;
                             playerTurn--;
